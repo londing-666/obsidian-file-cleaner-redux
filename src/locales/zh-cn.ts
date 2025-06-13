@@ -6,7 +6,7 @@ export const zhCN: Locale = {
   Settings: {
     RegularOptions: {
       CleanedFiles: {
-        Label: "清理文件",
+        Label: "清理",
         Description: "要如何处理已清理的文件？",
 
         Options: {
